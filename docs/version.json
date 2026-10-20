@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "released": null,
+  "minimum_macos": "13.0",
+  "generated": "scripts/version.sh",
+  "history": [
+    {"version": "1.0.0", "date": null, "notes": ["The menu bar shows what the app is doing: off, on with the time left, or `∞` for never", "Keeps the Mac awake by holding IOKit power assertions, and lets it sleep at the deadline", "A window on first launch, with `Do not show again`", "Launch at Login, through `SMAppService`", "English and Polish, following the system language", "Apple Silicon and Intel, from either one slice or a universal build"]}
+  ]
+}

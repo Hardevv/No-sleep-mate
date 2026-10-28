@@ -1,9 +1,11 @@
 {
-  "version": "1.0.0",
-  "released": null,
+  "version": "1.1.1",
+  "released": "2026-10-28",
   "minimum_macos": "13.0",
   "generated": "scripts/version.sh",
   "history": [
-    {"version": "1.0.0", "date": null, "notes": ["The menu bar shows what the app is doing: off, on with the time left, or `∞` for never", "Keeps the Mac awake by holding IOKit power assertions, and lets it sleep at the deadline", "A window on first launch, with `Do not show again`", "Launch at Login, through `SMAppService`", "English and Polish, following the system language", "Apple Silicon and Intel, from either one slice or a universal build"]}
+    {"version": "1.1.1", "date": "2026-10-28", "notes": ["docs: add release instructions", "fix: realease link"]},
+    {"version": "1.1.0", "date": "2026-10-28", "notes": ["feat: scren saver improvemnts", "feat: buy me a coffe and placeholder for add preset", "feat: add version to help menu", "feat: add feedback form", "feat: hide cursor on screen saver", "feat: reduce requests when on scren saver", "test: add tests for new UX solution", "test: fix tests after new UX changes", "feat: new menu UX styles", "feat: new menu UX", "feat: screen saver pt2", "feat: screen saver", "refactor: change the way screen lock works", "docs: appcast for 1.0.0", "fix: follow the system on alerts, login item, pointer and assistive input", "fix: inconsisten UI for new UX menu item across devices"]},
+    {"version": "1.0.0", "date": "2026-10-20", "notes": ["The menu bar shows what the app is doing: off, on with the time left, or `∞` for never", "Keeps the Mac awake by holding IOKit power assertions, and lets it sleep at the deadline", "Presets, so a length that is used every day is one click away", "`Only on Power Adapter`, which drops everything while on battery", "`Pause while media plays`, so a video is not interrupted by the countdown running out", "A first-run tour, with `Do not show again` and `Show the tour again` in the Help menu", "Launch at Login, through `SMAppService`", "A sound shortly before the time is up, with the lead time set in the menu", "Seven languages -- English, German, Spanish, French, Japanese, Polish and Simplified", "Updates through Sparkle: EdDSA-signed, checked for silently at launch", "Apple Silicon and Intel, from either one slice or a universal build"]}
   ]
 }

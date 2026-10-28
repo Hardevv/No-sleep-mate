@@ -3,10 +3,40 @@
 Every release, newest first. `unreleased` in the date means the entry is still
 being written; `scripts/cli.sh version build` refuses to tag it until it has a date.
 
-## [1.0.0] - 2026-10-20
+## [1.1.1] - 2026-10-28
+### Added
+- docs: add release instructions
+
+### Fixed
+- fix: realease link
+
+
+## [1.1.0] - 2026-10-28
+16 commits since v1.0.0 (446fb87..d2c44bd), newest first
 
 ### Added
+- feat: scren saver improvemnts
+- feat: buy me a coffe and placeholder for add preset
+- feat: add version to help menu
+- feat: add feedback form
+- feat: hide cursor on screen saver
+- feat: reduce requests when on scren saver
+- test: add tests for new UX solution
+- test: fix tests after new UX changes
+- feat: new menu UX styles
+- feat: new menu UX
+- feat: screen saver pt2
+- feat: screen saver
+- refactor: change the way screen lock works
+- docs: appcast for 1.0.0
 
+### Fixed
+- fix: follow the system on alerts, login item, pointer and assistive input
+- fix: inconsisten UI for new UX menu item across devices
+
+
+## [1.0.0] - 2026-10-20
+### Added
 - The menu bar shows what the app is doing: off, on with the time left, or `∞` for never
 - Keeps the Mac awake by holding IOKit power assertions, and lets it sleep at the deadline
 - Presets, so a length that is used every day is one click away
@@ -20,8 +50,7 @@ being written; `scripts/cli.sh version build` refuses to tag it until it has a d
 - Updates through Sparkle: EdDSA-signed, checked for silently at launch
 - Apple Silicon and Intel, from either one slice or a universal build
 
-111 commits, newest first (no v\* tag to start from)
-
+<!-- 111 commits, newest first (no v* tag to start from)
 - refactor: make tests faster, finish onboarding, make app bundle and icon smaller
 - feat: onboarding steps: 3,4 and fixes
 - fix: the last page's note lines up with the glyph lines above it
@@ -73,3 +102,4 @@ being written; `scripts/cli.sh version build` refuses to tag it until it has a d
 - chore: share the build logic between the scripts
 - feat: migrate stored settings to whole minutes
 - ... and 61 older commits
+-->

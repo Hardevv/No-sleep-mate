@@ -3,6 +3,30 @@
     <channel>
         <title>NoSleepMate</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Wed, 28 Oct 2026 06:32:09 +0100</pubDate>
+            <sparkle:version>155</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Added
+- docs: add release instructions
+
+### Fixed
+- fix: realease link
+
+
+
+---
+
+If No Sleep Mate is useful to you, you can [buy me a coffee](https://buymeacoffee.com/hardevv).
+]]></description>
+            <enclosure url="https://github.com/Hardevv/No-sleep-mate/releases/download/v1.1.1/NoSleepMate-1.1.1.zip" length="1587915" type="application/octet-stream" sparkle:edSignature="4UyYyC+dkyJfqBwByBJWvrUU40ukAKv79n+tMUXN3eoA3LAcTKFOWXPeAUOLltV8IEJNJuwcXW1fuosV4uMiAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Hardevv/No-sleep-mate/releases/download/v1.1.1/NoSleepMate155-151.delta" sparkle:deltaFrom="151" length="1134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vS1FIFEDZwf7JTC9zTVQJZPi9nKuQUpHFVNl3pbtlVebn4Gwuxymz3oc29silfxYeXq/tr8Ul6NBx9e3XZZaCQ=="/>
+                <enclosure url="https://github.com/Hardevv/No-sleep-mate/releases/download/v1.1.1/NoSleepMate155-134.delta" sparkle:deltaFrom="134" length="212694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="k20FixG4dkuFT5PFa3uib1Q6pk63Q6dVsgIX/UlkXYb+/tM+AopAQ+mnwQwQ3cMJp+XbzhRZLu1J5cpVoTpBDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Wed, 28 Oct 2026 04:43:28 +0100</pubDate>
             <sparkle:version>151</sparkle:version>
@@ -37,7 +61,7 @@
 
 If No Sleep Mate is useful to you, you can [buy me a coffee](https://buymeacoffee.com/hardevv).
 ]]></description>
-            <enclosure url="https://github.com/Hardevv/No-sleep-mate/releases/download/v1.1.0/NoSleepMate-1.1.0.zip" length="1587913" type="application/octet-stream" sparkle:edSignature="UJKQ6eq3TwUdw8WwabG+/A/Ad4mhDTwinWBN7HFgpO9w4rtFkkulJRkKE2bk/U0HmL4pWB39utQvCadw56e0BQ=="/>
+            <enclosure url="https://github.com/Hardevv/No-sleep-mate/releases/download/v1.1.1/NoSleepMate-1.1.0.zip" length="1587913" type="application/octet-stream" sparkle:edSignature="UJKQ6eq3TwUdw8WwabG+/A/Ad4mhDTwinWBN7HFgpO9w4rtFkkulJRkKE2bk/U0HmL4pWB39utQvCadw56e0BQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Hardevv/No-sleep-mate/releases/download/v1.1.0/NoSleepMate151-134.delta" sparkle:deltaFrom="134" length="212762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+D6PLiqHG6hS3x/u1Gk7+S86/TR7WuJ9DeVNZ3YmXJonEQLpZsNC3OasUcCwCvzMNyx7cj4aiaoGn8r+6W+6AQ=="/>
             </sparkle:deltas>
@@ -48,7 +72,7 @@ If No Sleep Mate is useful to you, you can [buy me a coffee](https://buymeacoffe
             <sparkle:version>134</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Hardevv/No-sleep-mate/releases/download/v1.1.0/NoSleepMate-1.0.0.zip" length="1466780" type="application/octet-stream" sparkle:edSignature="/O0yNeXqiT9AxRMqA2nR65lVTv2seBdVCeXEPI+IZ6u7ge0+9BrPxhdcraX5fUWxDKxdvPjDpOkSlyre8TjjBA=="/>
+            <enclosure url="https://github.com/Hardevv/No-sleep-mate/releases/download/v1.1.1/NoSleepMate-1.0.0.zip" length="1466780" type="application/octet-stream" sparkle:edSignature="/O0yNeXqiT9AxRMqA2nR65lVTv2seBdVCeXEPI+IZ6u7ge0+9BrPxhdcraX5fUWxDKxdvPjDpOkSlyre8TjjBA=="/>
         </item>
     </channel>
 </rss>
